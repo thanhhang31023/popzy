@@ -2,6 +2,12 @@
 
 Popzy.js is a lightweight and easy-to-use **modal library** written in **pure JavaScript**. It requires **no dependencies**, is fully customizable via **CSS**, and has an intuitive API for creating modals effortlessly.
 
+## 📌 Demo
+![Popzy.js Demo](./demo.png)
+
+Try out Popzy.js live:
+🔗 **[Live Demo](https://thanhhang31023.github.io/popzy/)**
+
 ## 🚀 Features
 - 🔥 **No dependencies** – Runs on vanilla JavaScript.
 - 🎨 **Fully customizable** – Modify modal styles easily with CSS.
@@ -9,10 +15,6 @@ Popzy.js is a lightweight and easy-to-use **modal library** written in **pure Ja
 - 🏗 **Lightweight** – Just **~2KB** minified.
 - 🛠 **Simple API** – Easily create, customize, and manage modals.
 - 🚀 **Works everywhere** – Compatible with all modern browsers.
-
-## 📌 Demo
-Try out Popzy.js live:
-🔗 **[Live Demo](https://thanhhang31023.github.io/popzy/)**
 
 ## 📦 Installation
 
